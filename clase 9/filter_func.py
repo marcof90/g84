@@ -5,3 +5,4 @@ filter_function = lambda numero: numero < 3
 
 filtrado = list(filter(filter_function, numeros))
 print(filtrado)
+
